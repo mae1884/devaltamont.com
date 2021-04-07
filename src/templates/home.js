@@ -20,7 +20,7 @@ export const query = graphql`
 <script type="text/javascript">
   algoliasearchNetlify({
     appId: '786H6PUISD',
-    apiKey: '<774ad11ba7693af7a6649a3a59da3cbb>',
+    apiKey: '774ad11ba7693af7a6649a3a59da3cbb',
     siteId: 'ac70d6f3-147d-43c9-b798-31f06967fa46',
     branch: 'master',
     selector: 'div#search',
