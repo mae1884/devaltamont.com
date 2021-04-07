@@ -2,7 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
-
 import {Layout} from '../components/index';
 import {markdownify, Link, withPrefix, classNames, getPages} from '../utils';
 
