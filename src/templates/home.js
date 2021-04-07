@@ -1,4 +1,4 @@
-import React from 'react';
+mport React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
@@ -15,6 +15,7 @@ export const query = graphql`
     }
   }
 `;
+
 export default class Home extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
@@ -40,6 +41,17 @@ export default class Home extends React.Component {
                     ))}
                   </div>
                   )}
+                  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+                  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+                  <script type="text/javascript">
+                  algoliasearchNetlify({
+                  appId: '786H6PUISD',
+                  apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+                  siteId: 'ac70d6f3-147d-43c9-b798-31f06967fa46',
+                  branch: 'master',
+                  selector: 'div#search',
+                  });
+                  </script>
                 </div>
               </div>
               )}
