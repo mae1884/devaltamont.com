@@ -6,17 +6,6 @@ intro_content: >-
   yourself that people can read on the homepage to get a sense of who you are.
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: '786H6PUISD',
-    apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
-    siteId: 'ac70d6f3-147d-43c9-b798-31f06967fa46',
-    branch: 'master',
-    selector: 'div#search',
-  });
-</script>
 intro_actions:
   - type: action
     label: Learn More
