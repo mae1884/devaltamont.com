@@ -2,14 +2,15 @@
  * General
  */
 html {
-  font-family: _font(primary);
-  font-size: 112.5%;
+  font-family: _font(secondary);
+  font-size: 109.5%;
 }
 
 body {
   background: #fff;
   color: _palette(primary);
-  line-height: 1.66667;
+  font-size: 120%;
+  line-height: 1.6177;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -35,7 +36,7 @@ h4,
 h5,
 h6 {
   color: _palette(secondary);
-  font-family: _font(secondary);
+  font-family: _font(primary);
   font-weight: bold;
   line-height: 1.2;
   margin: 2.5rem 0 0.83333rem;

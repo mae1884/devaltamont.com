@@ -2,36 +2,6 @@
 
 <img src="https://themes.stackbit.com/images/ampersand-demo-1024x768.png" width="600">
 
-This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
-
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
-
-<details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/startup-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Product-marketing focused</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/app-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Mobile application landing page</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=nocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Git</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=hugo&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Hugo</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=jekyll&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Jekyll</a></li>
-                </ul>
-</details>
 
 ## Develop Locally
 
