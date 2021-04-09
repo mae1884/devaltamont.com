@@ -12,7 +12,7 @@ module.exports = {
             options: {
               apiUrl: `https://gatsby.ghost.io`,
               contentApiKey: `9cc5c67c358edfdd81455149d0`,
-            },
+        },
         {
             resolve: `gatsby-source-filesystem`,
             options: {
